@@ -1,0 +1,19 @@
+{
+    "name": "fail-safe-socket",
+    "version": "1.0.0",
+    "description": "A fail-safe socket over tcp",
+    "keywords": ["socket", "tcp"],
+    "author": {
+        "name": "Xianghan Wang",
+        "email": "coolwust@gmail.com"
+    },
+    "homepage": "https://github.com/coolwust/fail-safe-socket",
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:coolwust/fail-safe-socket.git"
+    }
+}
