@@ -15,5 +15,8 @@
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com:coolwust/fail-safe-socket.git"
+    },
+    "dependencies": {
+        "array-stream": "git+ssh://git@github.com:coolwust/array-stream.git"
     }
 }
